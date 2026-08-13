@@ -36,7 +36,7 @@ It contains behavioural and contextual attributes such as:
 
 **Source:** Kaggle
 
-**URL:** ADD_THE_EXACT_KAGGLE_DATASET_URL_USED_IN_THE_ASSIGNMENT
+**URL:** (https://www.kaggle.com/datasets/samuelsemaya/e-commerce-customer-churn?resource=download)
 
 The dataset contains 3,941 customer records and 11 attributes. The target variable, `Churn`, indicates whether a customer churned.
 
